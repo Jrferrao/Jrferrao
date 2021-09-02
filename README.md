@@ -1,8 +1,8 @@
-###BEM VINDO!####
-##Eu sou o João Rafael ##
 
-Hoje  trabalho com Front End
-Foco em React
+
+### Bem Vindo(a)!
+#### Eu sou o João Rafael Ferrão
+##### Hoje  trabalho com Front End com foco em React <img height="40em" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"/>
 
 <div>
   <a href="https://github.com/Jrferrao">
